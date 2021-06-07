@@ -8,6 +8,7 @@ namespace AbstractClass
 {
     class Program
     {
+        //This change from Priyanka Machine
         static void Main(string[] args)
         {
             //Unable to create instance for Abstract
